@@ -18,8 +18,8 @@
 
 ## Summary
 
-- [ ] Day 01 - JavaScript Drum Kit
-- [ ] Day 02 - CSS + JS Clock
+- [x] Day 01 - JavaScript Drum Kit
+- [x] Day 02 - CSS + JS Clock
 - [ ] Day 03 - Playing with CSS Variables and JS
 - [ ] Day 04 - Array Cardio Day 1
 - [ ] Day 05 - Flex Panels Image Gallery
