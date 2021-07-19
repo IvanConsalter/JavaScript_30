@@ -21,7 +21,7 @@
 - [x] Day 01 - JavaScript Drum Kit
 - [x] Day 02 - CSS + JS Clock
 - [x] Day 03 - Playing with CSS Variables and JS
-- [ ] Day 04 - Array Cardio Day 1
+- [x] Day 04 - Array Cardio Day 1
 - [ ] Day 05 - Flex Panels Image Gallery
 - [ ] Day 06 - Ajax Type Ahead
 - [ ] Day 07 - Array Cardio Day 2
