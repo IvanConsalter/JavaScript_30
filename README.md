@@ -25,7 +25,7 @@
 - [x] Day 05 - Flex Panels Image Gallery
 - [x] Day 06 - Ajax Type Ahead
 - [x] Day 07 - Array Cardio Day 2
-- [ ] Day 08 - Fun with HTML5 Canvas
+- [x] Day 08 - Fun with HTML5 Canvas
 - [ ] Day 09 - 14 Must Know Dev Tools Tricks
 - [ ] Day 10 - Hold Shift to Check Multiple Checkboxes
 - [ ] Day 11 - Custom HTML5 Video Player
