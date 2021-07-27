@@ -29,7 +29,7 @@
 - [x] Day 09 - 14 Must Know Dev Tools Tricks
 - [x] Day 10 - Hold Shift to Check Multiple Checkboxes
 - [x] Day 11 - Custom HTML5 Video Player
-- [ ] Day 12 - Key Sequence Detection (KONAMI CODE)
+- [x] Day 12 - Key Sequence Detection (KONAMI CODE)
 - [ ] Day 13 - Slide In on Scroll
 - [ ] Day 14 - Object and Arrays - Reference VS Copy
 - [ ] Day 15 - LocalStorage and Event Delegation
