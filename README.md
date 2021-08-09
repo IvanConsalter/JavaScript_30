@@ -41,7 +41,7 @@
 - [x] Day 21 - Geolocation based Speedometer and Compass
 - [x] Day 22 - Follow Along Links
 - [x] Day 23 - Speech Synthesis
-- [ ] Day 24 - Sticky Nav
+- [x] Day 24 - Sticky Nav
 - [ ] Day 25 - Event Capture, Propagation, Bubbling and Once
 - [ ] Day 26 - Stripe Follow Along Dropdown
 - [ ] Day 27 - Click and Drag to Scroll
