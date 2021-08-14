@@ -45,7 +45,7 @@
 - [x] Day 25 - Event Capture, Propagation, Bubbling and Once
 - [x] Day 26 - Stripe Follow Along Dropdown
 - [x] Day 27 - Click and Drag to Scroll
-- [ ] Day 28 - Video Speed Controller UI
+- [x] Day 28 - Video Speed Controller UI
 - [ ] Day 29 - Countdown Clock
 - [ ] Day 30 - Whack A Mole Game
 
