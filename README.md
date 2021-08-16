@@ -47,7 +47,7 @@
 - [x] Day 27 - Click and Drag to Scroll
 - [x] Day 28 - Video Speed Controller UI
 - [x] Day 29 - Countdown Clock
-- [ ] Day 30 - Whack A Mole Game
+- [x] Day 30 - Whack A Mole Game
 
 
 
